@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "textlite": {
+      "command": "/ABSOLUTE/PATH/textlite-mcp/.venv/bin/python",
+      "args": ["-m", "textlite_mcp.server", "--transport", "stdio"]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+Solar energy is the radiant light and heat from the Sun that people capture with a range of technologies. The two most common are photovoltaic panels, which turn light directly into electricity, and solar thermal collectors, which use sunlight to heat water or air. Because sunlight is free and abundant, solar power has become one of the fastest-growing sources of electricity in the world.
+
+Photovoltaic (PV) cells are made from semiconductor materials, usually silicon. When photons strike the cell, they knock electrons loose from their atoms, and the electric field built into the cell pushes those electrons into a current. Many cells are wired together into a module, and modules are combined into arrays that can power anything from a calculator to a city.
+
+PV cells are usually built from silicon semiconductors. Light hitting the cell frees electrons, and the cell's internal electric field drives them as a current. Cells are connected into modules, and modules into larger arrays.
+
+The cost of solar modules has fallen by roughly ninety percent over the last decade. Manufacturing at scale, better cell efficiency and cheaper installation have made rooftop and utility-scale solar competitive with coal and natural gas in many regions. In sunny countries, new solar farms now produce some of the cheapest electricity ever recorded.
+
+Solar output varies with the time of day, the season and the weather. Panels produce nothing at night and much less under heavy clouds, so grid operators must balance solar generation with other sources. This variability is the main technical challenge of relying heavily on solar power.
+
+Battery storage helps solve the variability problem. Lithium-ion batteries charged by solar panels during the day can release that energy in the evening, when household demand peaks. Large grid batteries also respond within milliseconds, which helps keep the grid frequency stable.
+
+Batteries charged during sunny hours can supply power after sunset, when demand is highest. Grid-scale batteries react almost instantly and help stabilize frequency, which makes it easier to integrate large amounts of solar energy.
+
+Other storage options include pumped hydro, where water is pumped uphill when power is cheap and released through turbines later, and thermal storage, where concentrated solar plants keep molten salt hot enough to generate steam for hours after dark. Green hydrogen produced by electrolysis is being explored for seasonal storage.
+
+Solar installations also have environmental costs. Mining materials, manufacturing panels and recycling them at the end of their twenty-five to thirty year life all require energy and careful handling. Large solar farms need land, so developers increasingly use rooftops, parking lots, reservoirs and farmland shared with crops, an approach called agrivoltaics.
+
+Policy has shaped the growth of solar power. Feed-in tariffs, tax credits and net metering made early installations affordable for households, while auctions for large projects drove prices down further. Today many governments pair solar targets with storage and grid investments to keep electricity reliable.
+
+Looking ahead, researchers are working on perovskite and tandem cells that could push efficiency well beyond today's silicon panels. Combined with cheaper batteries and smarter grids that shift demand to sunny hours, solar energy is expected to supply a large share of the world's electricity by the middle of the century.

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.YOUR_GITHUB_USERNAME/textlite-mcp",
+  "title": "TextLite MCP",
+  "description": "Semantic compression, clustering, deduplication, extractive summarization, keyphrases, topic extraction, similarity and reranking",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://YOUR_PUBLIC_HOST/mcp"
+    }
+  ]
+}
